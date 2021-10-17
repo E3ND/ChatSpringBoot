@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bruno
+Build-Jdk: 16.0.2
+Implementation-Title: spring-boot-websocket
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javatechie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-websocket
+Created-By: Maven Integration for Eclipse
+
